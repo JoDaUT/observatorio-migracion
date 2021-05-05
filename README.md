@@ -2,7 +2,7 @@
 
 <br>
 
-This project was created for the Community Service TCU-652 called "Migrantes como sujetos políticos" at Universidad de Costa Rica. The team was conformed by 1 History students, 1 Philology students and 3 Computer Science students.
+This project was created for the Community Service TCU-652 called "Migrantes como sujetos políticos" at Universidad de Costa Rica. The team was conformed by 1 History students, 1 Philology students and 2 Computer Science students.
 
 <br>
 
@@ -57,32 +57,30 @@ For the admin dashboard we choose Strapi. It is a Open source Node.js Headless C
 
 ## Solution implementation
 
-We used a color palleted given by the Community Service Coordinator and we design the prototypes in AdobeXD. When the design was approved we started to code.
-
-These are some pictures of the results:
-
-### Home
+We used a color palleted given by the Community Service Coordinator and we design the prototypes in AdobeXD. We started to code as soon as the design was approved.
 
 
-### Blog
-
-
-### Telephone Directory
-
-
-### About
 
 
 <br>
 
-## Tecnologies Requirements
+
+## Run your own
+
+<br>
+
+### Version
 You must have installed Angular 11.1.2 in your computer.
 
-## Development server
+<br>
 
+### Development server
+First, `npm i` to install node dependencies.
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Build
+<br>
+
+### Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
