@@ -56,9 +56,15 @@ We used a color palleted given by the Community Service Coordinator and we desig
 - Events section in home page.
 - Category system.
 
-Frontend video [here](https://www.youtube.com/watch?v=DbZPmpevly8).
+### Frontend video
 
-Strapi video [here](https://www.youtube.com/watch?v=04kJjm8DUPc).
+https://user-images.githubusercontent.com/47344349/149630846-8acdac87-ba04-4fab-9910-63f46f1e87e5.mp4
+
+
+
+### CMS video
+https://user-images.githubusercontent.com/47344349/149630001-e987c744-c969-43e7-9fa4-2d987c86a30b.mp4
+
 
 
 ## Run your own
